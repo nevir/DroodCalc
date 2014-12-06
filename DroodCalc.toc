@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: DroodCalc
+## Author: Nevir <ian@nevir.net>
+## Version: 1.0.0
+## Notes: Provides lua utility functions (for WeakAuras, etc)
+
+src/index.lua
+src/multipliers.lua

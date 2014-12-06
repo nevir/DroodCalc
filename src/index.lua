@@ -1,0 +1,3 @@
+local _, addon = ...
+_G["DroodCalc"] = addon
+_G["DC"] = addon
